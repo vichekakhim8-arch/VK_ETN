@@ -1,0 +1,1 @@
+import{h as n,P as f}from"./index-8SqJPYw-.js";function v(r,{immediate:t=!0,initial:s=null}={}){const l=f(s),a=n(null),u=n(!1);async function e(...o){u.value=!0,a.value=null;try{return l.value=await r(...o),l.value}catch(c){return a.value=c,null}finally{u.value=!1}}return t&&e(),{data:l,error:a,loading:u,run:e}}export{v as u};

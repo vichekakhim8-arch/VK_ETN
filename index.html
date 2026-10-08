@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#156c53" />
+  <title>VK_ETN — Technology Store</title>
+  <meta name="description" content="VK_ETN — smartphones, laptops, audio and accessories in Cambodia." />
+  <link rel="icon" href="/vk/img/favicon.svg" type="image/svg+xml" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Kantumruy+Pro:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#eef8f4', 100: '#d5eee3', 200: '#acdcc8', 300: '#79c3a6', 400: '#45a383',
+              500: '#238667', 600: '#156c53', 700: '#115744', 800: '#0f4538', 900: '#0c382e', 950: '#062019'
+            },
+            khqr: { red: '#E1232E' }
+          },
+          fontFamily: {
+            sans: ['Inter', 'Kantumruy Pro', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+            khmer: ['Kantumruy Pro', 'Inter', 'sans-serif']
+          },
+          boxShadow: { soft: '0 10px 40px -12px rgba(15, 69, 56, .18)' },
+          borderRadius: { none: '0', sm: '4px', DEFAULT: '5px', md: '5px', lg: '5px', xl: '5px', '2xl': '5px', '3xl': '5px', full: '9999px' }
+        }
+      }
+    };
+  </script>
+  <script>
+    // Safe storage: if the browser blocks localStorage (private mode / embedded preview), use memory instead
+    (function () {
+      try { var k = '__vk_test'; window.localStorage.setItem(k, '1'); window.localStorage.removeItem(k); }
+      catch (e) {
+        var mem = {};
+        var shim = { getItem: function (k) { return Object.prototype.hasOwnProperty.call(mem, k) ? mem[k] : null; }, setItem: function (k, v) { mem[k] = String(v); }, removeItem: function (k) { delete mem[k]; }, clear: function () { mem = {}; } };
+        try { Object.defineProperty(window, 'localStorage', { value: shim, configurable: true }); } catch (e2) { window.__vkStorage = shim; }
+      }
+    })();
+  </script>
+  <script>
+    (function () {
+      var t = localStorage.getItem('vk_theme');
+      if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
+      var l = localStorage.getItem('vk_lang');
+      if (l === 'km') document.documentElement.lang = 'km';
+    })();
+  </script>
+  <link rel="stylesheet" href="/vk/css/style.css" />
+</head>
+<body class="bg-white text-slate-800 dark:bg-slate-950 dark:text-slate-100 antialiased">
+  <div id="app">
+    <div class="boot-loader">
+      <div class="boot-logo"><i class="fa-solid fa-bag-shopping"></i></div>
+      <p>VK_ETN</p>
+    </div>
+  </div>
+
+  <!-- Libraries (all browser JavaScript) -->
+  <script src="https://unpkg.com/vue@3.4.38/dist/vue.global.prod.js"></script>
+  <script src="https://unpkg.com/vue-router@4.4.3/dist/vue-router.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.6/dist/JsBarcode.all.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+
+  <!-- VK_ETN app (Vue 3) -->
+  <script src="/vk/js/i18n.js"></script>
+  <script src="/vk/js/data.js"></script>
+  <script src="/vk/js/localdb.js"></script>
+  <script src="/vk/js/store.js"></script>
+  <script src="/vk/js/ui.js"></script>
+  <script src="/vk/js/shop.js"></script>
+  <script src="/vk/js/shop-pages.js"></script>
+  <script src="/vk/js/admin.js"></script>
+  <script src="/vk/js/admin-pages.js"></script>
+  <script src="/vk/js/app.js"></script>
+</body>
+</html>

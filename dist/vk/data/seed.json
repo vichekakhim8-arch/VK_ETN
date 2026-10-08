@@ -1,0 +1,8141 @@
+{
+ "categories": [
+  {
+   "id": "phones",
+   "icon": "fa-mobile-screen-button",
+   "name": {
+    "en": "Smartphones",
+    "km": "ស្មាតហ្វូន"
+   },
+   "image": "/vk/img/categories/phones.jpg"
+  },
+  {
+   "id": "laptops",
+   "icon": "fa-laptop",
+   "name": {
+    "en": "Laptops",
+    "km": "កុំព្យូទ័រយួរដៃ"
+   },
+   "image": "/vk/img/categories/laptops.jpg"
+  },
+  {
+   "id": "audio",
+   "icon": "fa-headphones",
+   "name": {
+    "en": "Audio",
+    "km": "សំឡេង"
+   },
+   "image": "/vk/img/categories/audio.jpg"
+  },
+  {
+   "id": "watches",
+   "icon": "fa-clock",
+   "name": {
+    "en": "Smartwatches",
+    "km": "នាឡិកាឆ្លាតវៃ"
+   },
+   "image": "/vk/img/categories/watches.jpg"
+  },
+  {
+   "id": "gaming",
+   "icon": "fa-gamepad",
+   "name": {
+    "en": "Gaming",
+    "km": "ហ្គេម"
+   },
+   "image": "/vk/img/categories/gaming.jpg"
+  },
+  {
+   "id": "tablets",
+   "icon": "fa-tablet-screen-button",
+   "name": {
+    "en": "Tablets",
+    "km": "ថេប្លេត"
+   },
+   "image": "/vk/img/categories/tablets.jpg"
+  },
+  {
+   "id": "accessories",
+   "icon": "fa-plug",
+   "name": {
+    "en": "Accessories",
+    "km": "គ្រឿងបន្លាស់"
+   },
+   "image": "/vk/img/categories/accessories.jpg"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "iPhone 15 Pro",
+   "sold": 129,
+   "brand": "Apple",
+   "inBox": [
+    "iPhone 15 Pro",
+    "USB‑C Charge Cable (1 m)",
+    "Documentation"
+   ],
+   "price": 1099,
+   "short": "Titanium design, A17 Pro chip and a pro camera system with 5x telephoto zoom.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "6.1\" Super Retina XDR, 120Hz"
+    },
+    {
+     "k": "Chip",
+     "v": "A17 Pro"
+    },
+    {
+     "k": "Storage",
+     "v": "256GB"
+    },
+    {
+     "k": "Camera",
+     "v": "48MP + 12MP + 12MP"
+    },
+    {
+     "k": "Battery",
+     "v": "Up to 23h video"
+    },
+    {
+     "k": "Weight",
+     "v": "187 g"
+    }
+   ],
+   "stock": 19,
+   "images": [
+    "/vk/img/products/p1-1.jpg",
+    "/vk/img/products/p1-2.jpg",
+    "/vk/img/products/p1-3.jpg",
+    "/vk/img/products/p1-4.jpg"
+   ],
+   "rating": 4.9,
+   "details": "iPhone 15 Pro is the first iPhone with an aerospace-grade titanium design, making it the lightest Pro model ever. The A17 Pro chip delivers a huge leap in GPU performance, enabling console-quality gaming right on your phone.\n\nThe pro camera system features a 48MP main camera that captures stunning detail, a new 5x telephoto camera on the Pro Max, and next-generation portraits with focus and depth control. The customizable Action button gives quick access to your favourite feature.\n\nWith USB‑C supporting USB 3 speeds, all‑day battery life and iOS, iPhone 15 Pro is built to last and designed to impress.",
+   "reviews": 124,
+   "category": "phones",
+   "discount": 15,
+   "featured": true,
+   "features": [
+    "Aerospace-grade titanium design",
+    "A17 Pro chip with 6-core GPU",
+    "48MP Main camera, 3x Telephoto",
+    "Customizable Action button",
+    "USB‑C with USB 3 speeds",
+    "All-day battery life"
+   ]
+  },
+  {
+   "id": "p2",
+   "name": "MacBook Air M2",
+   "sold": 98,
+   "brand": "Apple",
+   "inBox": [
+    "MacBook Air",
+    "30W USB‑C Power Adapter",
+    "USB‑C to MagSafe 3 Cable"
+   ],
+   "price": 1299,
+   "short": "Strikingly thin design with the M2 chip, 13.6\" Liquid Retina display and 18h battery.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "13.6\" 2560×1664"
+    },
+    {
+     "k": "Chip",
+     "v": "Apple M2"
+    },
+    {
+     "k": "Memory",
+     "v": "8GB unified"
+    },
+    {
+     "k": "Storage",
+     "v": "256GB SSD"
+    },
+    {
+     "k": "Weight",
+     "v": "1.24 kg"
+    }
+   ],
+   "stock": 15,
+   "images": [
+    "/vk/img/products/p2-1.jpg",
+    "/vk/img/products/p2-2.jpg",
+    "/vk/img/products/p2-3.jpg",
+    "/vk/img/products/p2-4.jpg"
+   ],
+   "rating": 4.8,
+   "details": "Redesigned around the next-generation M2 chip, MacBook Air is strikingly thin and brings exceptional speed and power efficiency within its durable all‑aluminium enclosure.\n\nThe 13.6-inch Liquid Retina display supports one billion colours, and the 1080p FaceTime HD camera, four-speaker sound system and three-mic array make every call look and sound great.\n\nWith up to 18 hours of battery life and a fanless design, it stays silent no matter how hard you work.",
+   "reviews": 98,
+   "category": "laptops",
+   "discount": 10,
+   "featured": true,
+   "features": [
+    "Apple M2 chip with 8-core CPU",
+    "13.6\" Liquid Retina display",
+    "Up to 18 hours battery",
+    "Fanless, silent design",
+    "MagSafe charging",
+    "1080p FaceTime HD camera"
+   ]
+  },
+  {
+   "id": "p3",
+   "name": "AirPods Pro (2nd gen)",
+   "sold": 76,
+   "brand": "Apple",
+   "inBox": [
+    "AirPods Pro",
+    "MagSafe Charging Case",
+    "Ear tips (XS, S, M, L)",
+    "USB‑C cable"
+   ],
+   "price": 249,
+   "short": "Active Noise Cancellation, Adaptive Audio and personalised spatial audio.",
+   "specs": [
+    {
+     "k": "Chip",
+     "v": "Apple H2"
+    },
+    {
+     "k": "Battery",
+     "v": "6h (30h with case)"
+    },
+    {
+     "k": "Water resistance",
+     "v": "IP54"
+    },
+    {
+     "k": "Connectivity",
+     "v": "Bluetooth 5.3"
+    }
+   ],
+   "stock": 40,
+   "images": [
+    "/vk/img/products/p3-1.jpg",
+    "/vk/img/products/p3-2.jpg",
+    "/vk/img/products/p3-3.jpg"
+   ],
+   "rating": 4.8,
+   "details": "AirPods Pro feature up to 2x more Active Noise Cancellation, plus Adaptive Transparency and Personalised Spatial Audio with dynamic head tracking for immersive sound.\n\nThe H2 chip powers smarter noise cancellation and three-dimensional sound. Touch control lets you swipe to adjust volume, and the MagSafe charging case now has a speaker and lanyard loop.",
+   "reviews": 76,
+   "category": "audio",
+   "discount": 20,
+   "featured": true,
+   "features": [
+    "2x more Active Noise Cancellation",
+    "Adaptive Transparency",
+    "Personalised Spatial Audio",
+    "Up to 6h listening time",
+    "MagSafe USB‑C case"
+   ]
+  },
+  {
+   "id": "p4",
+   "name": "Galaxy Watch 6",
+   "sold": 63,
+   "brand": "Samsung",
+   "inBox": [
+    "Galaxy Watch6",
+    "Fast wireless charger",
+    "Strap"
+   ],
+   "price": 299,
+   "short": "Advanced sleep coaching, heart monitoring and a larger, brighter display.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "1.5\" Super AMOLED"
+    },
+    {
+     "k": "Size",
+     "v": "44 mm"
+    },
+    {
+     "k": "Battery",
+     "v": "425 mAh"
+    },
+    {
+     "k": "Water resistance",
+     "v": "5ATM + IP68"
+    }
+   ],
+   "stock": 18,
+   "images": [
+    "/vk/img/products/p4-1.jpg",
+    "/vk/img/products/p4-2.jpg",
+    "/vk/img/products/p4-3.jpg",
+    "/vk/img/products/p4-4.jpg"
+   ],
+   "rating": 4.6,
+   "details": "Galaxy Watch6 helps you understand your body with advanced health insights. Sleep coaching, body composition, heart rhythm notifications and personalised heart rate zones keep you on track.\n\nThe display is 20% larger with slimmer bezels, and the sapphire crystal glass is built to withstand daily life.",
+   "reviews": 63,
+   "category": "watches",
+   "discount": 12,
+   "featured": true,
+   "features": [
+    "Personalised sleep coaching",
+    "BIA body composition",
+    "ECG & blood pressure",
+    "Sapphire crystal glass",
+    "Up to 40h battery"
+   ]
+  },
+  {
+   "id": "p5",
+   "name": "Sony WH‑1000XM5",
+   "sold": 51,
+   "brand": "Sony",
+   "inBox": [
+    "Headphones",
+    "Carrying case",
+    "USB‑C cable",
+    "Audio cable"
+   ],
+   "price": 399,
+   "short": "Industry-leading noise cancelling headphones with 30 hours battery.",
+   "specs": [
+    {
+     "k": "Driver",
+     "v": "30 mm"
+    },
+    {
+     "k": "Battery",
+     "v": "30 h"
+    },
+    {
+     "k": "Weight",
+     "v": "250 g"
+    },
+    {
+     "k": "Codec",
+     "v": "LDAC, AAC, SBC"
+    }
+   ],
+   "stock": 12,
+   "images": [
+    "/vk/img/products/p5-1.jpg",
+    "/vk/img/products/p5-2.jpg",
+    "/vk/img/products/p5-3.jpg",
+    "/vk/img/products/p5-4.jpg"
+   ],
+   "rating": 4.9,
+   "details": "The WH-1000XM5 rewrites the rules for distraction-free listening. Two processors control eight microphones for unprecedented noise cancelling, and Auto NC Optimizer adjusts automatically to your environment.\n\nA specially designed 30mm driver unit delivers natural, rich sound, and crystal clear hands-free calling uses precise voice pickup technology.",
+   "reviews": 210,
+   "category": "audio",
+   "discount": 0,
+   "featured": false,
+   "features": [
+    "Industry-leading noise cancelling",
+    "30mm carbon fibre drivers",
+    "30 hours battery, quick charge",
+    "Multipoint connection",
+    "Speak-to-chat"
+   ]
+  },
+  {
+   "id": "p6",
+   "name": "Xbox Wireless Controller",
+   "sold": 88,
+   "brand": "Microsoft",
+   "inBox": [
+    "Controller",
+    "2× AA batteries"
+   ],
+   "price": 69,
+   "short": "Hybrid D-pad, textured grip and Bluetooth for Xbox, PC and mobile.",
+   "specs": [
+    {
+     "k": "Connectivity",
+     "v": "Xbox Wireless, Bluetooth"
+    },
+    {
+     "k": "Battery",
+     "v": "2× AA (up to 40h)"
+    },
+    {
+     "k": "Port",
+     "v": "USB‑C, 3.5mm"
+    }
+   ],
+   "stock": 35,
+   "images": [
+    "/vk/img/products/p6-1.jpg",
+    "/vk/img/products/p6-2.jpg",
+    "/vk/img/products/p6-3.jpg",
+    "/vk/img/products/p6-4.jpg"
+   ],
+   "rating": 4.7,
+   "details": "Experience the modernised design of the Xbox Wireless Controller, featuring sculpted surfaces and refined geometry for enhanced comfort during gameplay.\n\nStay on target with textured grip on the triggers, bumpers and back case, and a hybrid D-pad for accurate, yet familiar input.",
+   "reviews": 88,
+   "category": "gaming",
+   "discount": 5,
+   "featured": false,
+   "features": [
+    "Hybrid D-pad",
+    "Textured grip",
+    "Share button",
+    "Bluetooth & USB‑C",
+    "Works with PC, Android, iOS"
+   ]
+  },
+  {
+   "id": "p7",
+   "name": "Galaxy S24 Ultra",
+   "sold": 47,
+   "brand": "Samsung",
+   "inBox": [
+    "Phone",
+    "USB‑C cable",
+    "Ejection pin"
+   ],
+   "price": 1299,
+   "short": "Galaxy AI, titanium frame, 200MP camera and built-in S Pen.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "6.8\" QHD+ 120Hz"
+    },
+    {
+     "k": "Chip",
+     "v": "Snapdragon 8 Gen 3"
+    },
+    {
+     "k": "Storage",
+     "v": "256GB"
+    },
+    {
+     "k": "Battery",
+     "v": "5000 mAh"
+    }
+   ],
+   "stock": 9,
+   "images": [
+    "/vk/img/products/p7-1.jpg",
+    "/vk/img/products/p7-2.jpg",
+    "/vk/img/products/p7-3.jpg"
+   ],
+   "rating": 4.8,
+   "details": "Welcome to the era of mobile AI. With Galaxy S24 Ultra you can unleash whole new levels of creativity, productivity and possibility, starting with the most important device in your life.\n\nThe 200MP camera with ProVisual Engine captures incredible detail in any light, while the titanium frame and Corning Gorilla Armor keep it protected.",
+   "reviews": 140,
+   "category": "phones",
+   "discount": 8,
+   "featured": true,
+   "features": [
+    "Galaxy AI features",
+    "200MP wide camera",
+    "Built-in S Pen",
+    "Titanium frame",
+    "5000 mAh battery"
+   ]
+  },
+  {
+   "id": "p8",
+   "name": "iPad Pro 11\"",
+   "sold": 33,
+   "brand": "Apple",
+   "inBox": [
+    "iPad Pro",
+    "USB‑C Charge Cable"
+   ],
+   "price": 999,
+   "short": "Ultra Retina XDR display, M4 chip and Apple Pencil Pro support.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "11\" Tandem OLED"
+    },
+    {
+     "k": "Chip",
+     "v": "Apple M4"
+    },
+    {
+     "k": "Storage",
+     "v": "256GB"
+    },
+    {
+     "k": "Weight",
+     "v": "444 g"
+    }
+   ],
+   "stock": 14,
+   "images": [
+    "/vk/img/products/p8-1.jpg",
+    "/vk/img/products/p8-2.jpg",
+    "/vk/img/products/p8-3.jpg"
+   ],
+   "rating": 4.8,
+   "details": "The thinnest Apple product ever, iPad Pro features the breakthrough Ultra Retina XDR display and the outrageous performance of the M4 chip.\n\nWith Apple Pencil Pro and the Magic Keyboard, it becomes the ultimate creative and productivity machine.",
+   "reviews": 66,
+   "category": "tablets",
+   "discount": 0,
+   "featured": false,
+   "features": [
+    "M4 chip",
+    "Ultra Retina XDR OLED",
+    "Apple Pencil Pro support",
+    "Face ID",
+    "Thunderbolt / USB 4"
+   ]
+  },
+  {
+   "id": "p9",
+   "name": "Apple Watch Ultra 2",
+   "sold": 21,
+   "brand": "Apple",
+   "inBox": [
+    "Apple Watch Ultra 2",
+    "Band",
+    "Magnetic fast charger"
+   ],
+   "price": 799,
+   "short": "The most rugged and capable Apple Watch, with a 3000-nit display.",
+   "specs": [
+    {
+     "k": "Case",
+     "v": "49 mm titanium"
+    },
+    {
+     "k": "Chip",
+     "v": "S9 SiP"
+    },
+    {
+     "k": "Water",
+     "v": "WR100, EN13319"
+    }
+   ],
+   "stock": 4,
+   "images": [
+    "/vk/img/products/p9-1.jpg",
+    "/vk/img/products/p9-2.jpg",
+    "/vk/img/products/p9-3.jpg"
+   ],
+   "rating": 4.9,
+   "details": "Apple Watch Ultra 2 is designed for endurance, exploration and adventure. A 49mm titanium case, precision dual-frequency GPS and up to 36 hours of battery life.\n\nThe brightest Apple display ever reaches 3000 nits, and the new double tap gesture lets you control your watch without touching the screen.",
+   "reviews": 45,
+   "category": "watches",
+   "discount": 0,
+   "featured": false,
+   "features": [
+    "49mm titanium case",
+    "3000-nit display",
+    "Precision dual-frequency GPS",
+    "Up to 36h battery",
+    "Dive computer"
+   ]
+  },
+  {
+   "id": "p10",
+   "name": "Dell XPS 13",
+   "sold": 19,
+   "brand": "Dell",
+   "inBox": [
+    "Laptop",
+    "60W USB‑C adapter"
+   ],
+   "price": 1199,
+   "short": "Premium ultrabook with InfinityEdge display and Intel Core Ultra.",
+   "specs": [
+    {
+     "k": "Display",
+     "v": "13.4\" 1920×1200"
+    },
+    {
+     "k": "CPU",
+     "v": "Core Ultra 7 155H"
+    },
+    {
+     "k": "Memory",
+     "v": "16GB LPDDR5x"
+    },
+    {
+     "k": "Storage",
+     "v": "512GB SSD"
+    }
+   ],
+   "stock": 7,
+   "images": [
+    "/vk/img/products/p10-1.jpg",
+    "/vk/img/products/p10-2.jpg",
+    "/vk/img/products/p10-3.jpg"
+   ],
+   "rating": 4.6,
+   "details": "The XPS 13 is precision-crafted from machined aluminium with a stunning edge-to-edge InfinityEdge display.\n\nPowered by Intel Core Ultra processors with built-in AI acceleration, it delivers smooth performance and long battery life in an incredibly compact form.",
+   "reviews": 38,
+   "category": "laptops",
+   "discount": 0,
+   "featured": false,
+   "features": [
+    "Intel Core Ultra 7",
+    "13.4\" FHD+ InfinityEdge",
+    "Zero-lattice keyboard",
+    "Wi‑Fi 7",
+    "1.19 kg"
+   ]
+  },
+  {
+   "id": "p11",
+   "name": "65W GaN Charger Kit",
+   "sold": 143,
+   "brand": "Anker",
+   "inBox": [
+    "Charger",
+    "USB‑C cable"
+   ],
+   "price": 49,
+   "short": "3-port fast charger with braided USB‑C cable for phone and laptop.",
+   "specs": [
+    {
+     "k": "Output",
+     "v": "65W max"
+    },
+    {
+     "k": "Ports",
+     "v": "2C + 1A"
+    },
+    {
+     "k": "Cable",
+     "v": "1.5 m braided"
+    }
+   ],
+   "stock": 57,
+   "images": [
+    "/vk/img/products/p11-1.jpg",
+    "/vk/img/products/p11-2.jpg",
+    "/vk/img/products/p11-3.jpg"
+   ],
+   "rating": 4.7,
+   "details": "Charge your laptop, phone and earbuds simultaneously with this compact 65W GaN charger. Advanced gallium nitride technology keeps it small and cool.\n\nIncludes a durable braided 1.5m USB‑C to USB‑C cable.",
+   "reviews": 140,
+   "category": "accessories",
+   "discount": 10,
+   "featured": false,
+   "features": [
+    "65W total output",
+    "2× USB‑C + 1× USB‑A",
+    "GaN technology",
+    "Foldable plug",
+    "Braided cable included"
+   ]
+  },
+  {
+   "id": "p12",
+   "name": "DualSense Controller",
+   "sold": 70,
+   "brand": "Sony",
+   "inBox": [
+    "Controller",
+    "USB cable"
+   ],
+   "price": 75,
+   "short": "Haptic feedback, adaptive triggers and built-in microphone.",
+   "specs": [
+    {
+     "k": "Connectivity",
+     "v": "Bluetooth, USB‑C"
+    },
+    {
+     "k": "Battery",
+     "v": "Built-in Li-ion"
+    }
+   ],
+   "stock": 0,
+   "images": [
+    "/vk/img/products/p12-1.jpg",
+    "/vk/img/products/p12-2.jpg",
+    "/vk/img/products/p12-3.jpg"
+   ],
+   "rating": 4.8,
+   "details": "Discover a deeper gaming experience with the innovative PS5 controller, featuring haptic feedback and dynamic trigger effects.\n\nA built-in microphone and headset jack let you chat with friends, while the Create button lets you capture and share your best moments.",
+   "reviews": 70,
+   "category": "gaming",
+   "discount": 0,
+   "featured": false,
+   "features": [
+    "Haptic feedback",
+    "Adaptive triggers",
+    "Built-in microphone",
+    "Create button",
+    "USB‑C charging"
+   ]
+  }
+ ],
+ "orders": [
+  {
+   "id": "VK2488874",
+   "note": "",
+   "paid": false,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 46.1,
+   "coupon": "",
+   "status": "pending",
+   "userId": 1,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "name": "VK Admin",
+    "phone": "012 345 678",
+    "address": "sdfs"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 44.1,
+   "createdAt": "2026-10-07T14:14:48.874Z"
+  },
+  {
+   "id": "VK2199588",
+   "note": "",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 1868.3,
+   "coupon": "",
+   "status": "pending",
+   "userId": 1,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "name": "VK Admin",
+    "phone": "012 345 678",
+    "address": "qqq"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1868.3,
+   "createdAt": "2026-10-07T14:09:59.589Z"
+  },
+  {
+   "id": "VK0030905",
+   "note": "",
+   "paid": false,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 46.1,
+   "coupon": "",
+   "status": "pending",
+   "userId": 1,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "name": "VK Admin",
+    "phone": "012 345 678",
+    "address": "dxzcz"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 44.1,
+   "createdAt": "2026-10-07T13:33:50.905Z"
+  },
+  {
+   "id": "VK8006154",
+   "note": "",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 3,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 2802.45,
+   "coupon": "",
+   "status": "pending",
+   "userId": 1,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "name": "VK Admin",
+    "phone": "0967271787",
+    "address": "cambodia\nPhnom Penh"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2802.45,
+   "createdAt": "2026-10-07T13:00:06.154Z"
+  },
+  {
+   "id": "VK3431525",
+   "note": "",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 46.1,
+   "coupon": "",
+   "status": "processing",
+   "userId": 1,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "name": "VK Admin",
+    "phone": "0967271787",
+    "address": "cambodia\nPhnom Penh"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 44.1,
+   "createdAt": "2026-10-07T11:43:51.525Z"
+  },
+  {
+   "id": "VK260037",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 3466.3,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.571724336976185,
+    "lng": 104.91514282276388,
+    "name": "Kim Rithy",
+    "phone": "052 677 836",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3466.3,
+   "createdAt": "2026-10-07T09:48:17.102Z"
+  },
+  {
+   "id": "VK260018",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 2488.2,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574515388719739,
+    "lng": 104.92080483706435,
+    "name": "Sok Dara",
+    "phone": "033 800 321",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2488.2,
+   "createdAt": "2026-10-07T00:39:02.717Z"
+  },
+  {
+   "id": "VK260109",
+   "paid": false,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1462.12,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.563209569649771,
+    "lng": 104.91164745493792,
+    "name": "Nhem Sreymom",
+    "phone": "045 171 112",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1462.12,
+   "createdAt": "2026-10-06T22:32:20.371Z"
+  },
+  {
+   "id": "VK260126",
+   "paid": false,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 219.3,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587772428244353,
+    "lng": 104.9383786581317,
+    "name": "Phan Vuthy",
+    "phone": "029 577 537",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 219.3,
+   "createdAt": "2026-10-04T15:53:51.352Z"
+  },
+  {
+   "id": "VK260071",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 2129.1,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587906760424376,
+    "lng": 104.90340115920175,
+    "name": "Nhem Sreymom",
+    "phone": "076 749 246",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2129.1,
+   "createdAt": "2026-10-04T10:27:13.645Z"
+  },
+  {
+   "id": "VK260059",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 526.24,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.586418382897973,
+    "lng": 104.93582300126785,
+    "name": "Phan Vuthy",
+    "phone": "051 867 430",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 526.24,
+   "createdAt": "2026-10-03T11:04:56.638Z"
+  },
+  {
+   "id": "VK260004",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 77,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.558730670604856,
+    "lng": 104.92249002790544,
+    "name": "Nhem Sreymom",
+    "phone": "076 453 569",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 75,
+   "createdAt": "2026-10-03T03:02:47.819Z"
+  },
+  {
+   "id": "VK260187",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2082.28,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.558249042183162,
+    "lng": 104.91608501027571,
+    "name": "Ly Chenda",
+    "phone": "081 824 134",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2082.28,
+   "createdAt": "2026-10-01T02:31:12.575Z"
+  },
+  {
+   "id": "VK260024",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 3596,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.572119307667018,
+    "lng": 104.90863807787886,
+    "name": "Phan Vuthy",
+    "phone": "085 775 786",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3596,
+   "createdAt": "2026-09-30T16:49:41.740Z"
+  },
+  {
+   "id": "VK260163",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 508.65,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.554538976335898,
+    "lng": 104.93104940128745,
+    "name": "Touch Pisey",
+    "phone": "011 382 215",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 508.65,
+   "createdAt": "2026-09-29T21:22:52.998Z"
+  },
+  {
+   "id": "VK260013",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 1475.24,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558831933317707,
+    "lng": 104.90313999510603,
+    "name": "Meas Bopha",
+    "phone": "074 443 212",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1475.24,
+   "createdAt": "2026-09-29T17:21:21.524Z"
+  },
+  {
+   "id": "VK260170",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1169.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.56998381397687,
+    "lng": 104.9131446072692,
+    "name": "Chan Sophea",
+    "phone": "060 206 751",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1169.1,
+   "createdAt": "2026-09-26T03:28:07.014Z"
+  },
+  {
+   "id": "VK260162",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 2455.71,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56717391894199,
+    "lng": 104.9012506161211,
+    "name": "Phan Vuthy",
+    "phone": "049 906 806",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2455.71,
+   "createdAt": "2026-09-25T17:12:45.645Z"
+  },
+  {
+   "id": "VK260106",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.555796441147105,
+    "lng": 104.92131138198077,
+    "name": "Meas Bopha",
+    "phone": "025 151 398",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2026-09-24T09:18:51.597Z"
+  },
+  {
+   "id": "VK260090",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 886.2,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.588932738145814,
+    "lng": 104.93391353353859,
+    "name": "Touch Pisey",
+    "phone": "066 318 799",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 886.2,
+   "createdAt": "2026-09-24T06:08:13.946Z"
+  },
+  {
+   "id": "VK260174",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.573246389497072,
+    "lng": 104.90175427549751,
+    "name": "Nhem Sreymom",
+    "phone": "048 718 634",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2026-09-24T02:13:54.129Z"
+  },
+  {
+   "id": "VK260096",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 4661.38,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.555371619183571,
+    "lng": 104.92639723535162,
+    "name": "Kim Rithy",
+    "phone": "080 904 554",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 4661.38,
+   "createdAt": "2026-09-21T18:39:49.686Z"
+  },
+  {
+   "id": "VK260058",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 798,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.583648097142579,
+    "lng": 104.89685226299102,
+    "name": "Kim Rithy",
+    "phone": "069 726 274",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 798,
+   "createdAt": "2026-09-20T00:41:57.338Z"
+  },
+  {
+   "id": "VK260143",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 1412.4,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.57133709281683,
+    "lng": 104.92969708055956,
+    "name": "Chan Sophea",
+    "phone": "058 607 920",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1412.4,
+   "createdAt": "2026-09-19T19:04:29.573Z"
+  },
+  {
+   "id": "VK260119",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 861.32,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.589358920035885,
+    "lng": 104.92265822785906,
+    "name": "Sok Dara",
+    "phone": "039 563 688",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 861.32,
+   "createdAt": "2026-09-18T16:00:02.808Z"
+  },
+  {
+   "id": "VK260128",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 1721.32,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.577386964671314,
+    "lng": 104.93439993062988,
+    "name": "Sok Dara",
+    "phone": "011 923 988",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1721.32,
+   "createdAt": "2026-09-17T08:50:21.472Z"
+  },
+  {
+   "id": "VK260185",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 1695.34,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.572442889306695,
+    "lng": 104.92523547678488,
+    "name": "Sok Dara",
+    "phone": "078 950 380",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1695.34,
+   "createdAt": "2026-09-16T16:40:58.325Z"
+  },
+  {
+   "id": "VK260003",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 1394.28,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.581199917886407,
+    "lng": 104.92910804870539,
+    "name": "Ly Chenda",
+    "phone": "088 427 498",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1394.28,
+   "createdAt": "2026-09-15T20:27:36.725Z"
+  },
+  {
+   "id": "VK260102",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.582420825818554,
+    "lng": 104.9261996488762,
+    "name": "Touch Pisey",
+    "phone": "033 213 826",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2026-09-12T21:21:34.135Z"
+  },
+  {
+   "id": "VK260029",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 2398,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.551280428450555,
+    "lng": 104.8964838196151,
+    "name": "Sok Dara",
+    "phone": "010 868 224",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2398,
+   "createdAt": "2026-09-12T10:33:31.910Z"
+  },
+  {
+   "id": "VK260139",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 799,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.586430844720454,
+    "lng": 104.92439210862852,
+    "name": "Lim Srey Leak",
+    "phone": "077 625 180",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 799,
+   "createdAt": "2026-09-11T07:21:19.065Z"
+  },
+  {
+   "id": "VK260067",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 934.15,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574027678249404,
+    "lng": 104.93603111895267,
+    "name": "Kim Rithy",
+    "phone": "016 395 395",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 934.15,
+   "createdAt": "2026-09-11T06:06:55.931Z"
+  },
+  {
+   "id": "VK260079",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1169.1,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.565230007050559,
+    "lng": 104.90003452261212,
+    "name": "Chan Sophea",
+    "phone": "014 114 448",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1169.1,
+   "createdAt": "2026-09-10T14:54:33.951Z"
+  },
+  {
+   "id": "VK260173",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1169.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.563973220214248,
+    "lng": 104.93539888849249,
+    "name": "Meas Bopha",
+    "phone": "086 134 632",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1169.1,
+   "createdAt": "2026-09-09T16:34:41.620Z"
+  },
+  {
+   "id": "VK260107",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 398.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.55891594500281,
+    "lng": 104.91880487170769,
+    "name": "Touch Pisey",
+    "phone": "012 319 411",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 398.4,
+   "createdAt": "2026-09-05T23:31:40.739Z"
+  },
+  {
+   "id": "VK260150",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 799,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.586165231596679,
+    "lng": 104.89392058183206,
+    "name": "Sok Dara",
+    "phone": "094 805 281",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 799,
+   "createdAt": "2026-09-04T03:51:54.871Z"
+  },
+  {
+   "id": "VK260179",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 934.15,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.575141861699523,
+    "lng": 104.9296625183057,
+    "name": "Nhem Sreymom",
+    "phone": "058 359 450",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 934.15,
+   "createdAt": "2026-09-04T02:25:21.629Z"
+  },
+  {
+   "id": "VK260097",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 2058.63,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.58023180263117,
+    "lng": 104.9399464533641,
+    "name": "Touch Pisey",
+    "phone": "046 588 145",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2058.63,
+   "createdAt": "2026-08-30T17:36:03.198Z"
+  },
+  {
+   "id": "VK260118",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1472.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.583242414845154,
+    "lng": 104.90646300220163,
+    "name": "Chan Sophea",
+    "phone": "094 662 771",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1472.4,
+   "createdAt": "2026-08-25T07:12:16.189Z"
+  },
+  {
+   "id": "VK260078",
+   "paid": false,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 2398,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.563748932080344,
+    "lng": 104.93964870478725,
+    "name": "Nhem Sreymom",
+    "phone": "056 314 785",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2398,
+   "createdAt": "2026-08-22T20:48:14.875Z"
+  },
+  {
+   "id": "VK260082",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 3592.08,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.564894298464061,
+    "lng": 104.93964962275699,
+    "name": "Sok Dara",
+    "phone": "071 537 194",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3592.08,
+   "createdAt": "2026-08-19T18:09:06.566Z"
+  },
+  {
+   "id": "VK260112",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 1084.15,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.566055573401973,
+    "lng": 104.93939757999964,
+    "name": "Sok Dara",
+    "phone": "046 911 893",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1084.15,
+   "createdAt": "2026-08-17T03:03:13.976Z"
+  },
+  {
+   "id": "VK260134",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 3452.28,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.578112775227055,
+    "lng": 104.89243691640208,
+    "name": "Sok Dara",
+    "phone": "079 777 342",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3452.28,
+   "createdAt": "2026-08-16T14:20:06.285Z"
+  },
+  {
+   "id": "VK260068",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 1243.1,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.589169378504158,
+    "lng": 104.9110468053585,
+    "name": "Keo Sambath",
+    "phone": "061 848 765",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1243.1,
+   "createdAt": "2026-08-15T23:29:11.347Z"
+  },
+  {
+   "id": "VK260130",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 2128.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574624274978415,
+    "lng": 104.9249095912301,
+    "name": "Ly Chenda",
+    "phone": "013 485 725",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2128.1,
+   "createdAt": "2026-08-15T05:24:59.690Z"
+  },
+  {
+   "id": "VK260038",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 3037.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.576092637311667,
+    "lng": 104.90574534532847,
+    "name": "Nhem Sreymom",
+    "phone": "016 319 402",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3037.4,
+   "createdAt": "2026-08-14T18:25:05.340Z"
+  },
+  {
+   "id": "VK260028",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 2916.4,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.587438172493131,
+    "lng": 104.93510187598643,
+    "name": "Sok Dara",
+    "phone": "043 217 891",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2916.4,
+   "createdAt": "2026-08-12T00:03:17.168Z"
+  },
+  {
+   "id": "VK260012",
+   "paid": false,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 150,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.578999942028895,
+    "lng": 104.90471564043314,
+    "name": "Seng Rotha",
+    "phone": "029 957 159",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 150,
+   "createdAt": "2026-08-08T07:51:37.661Z"
+  },
+  {
+   "id": "VK260061",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.568057746756823,
+    "lng": 104.90009993593907,
+    "name": "Meas Bopha",
+    "phone": "017 470 254",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2026-08-04T15:59:27.614Z"
+  },
+  {
+   "id": "VK260040",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 2338.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.561683569755406,
+    "lng": 104.9158187024272,
+    "name": "Touch Pisey",
+    "phone": "087 156 711",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2338.2,
+   "createdAt": "2026-07-31T02:09:04.241Z"
+  },
+  {
+   "id": "VK260101",
+   "paid": false,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.572943680249155,
+    "lng": 104.89232666936935,
+    "name": "Seng Rotha",
+    "phone": "063 437 772",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2026-07-30T05:28:08.785Z"
+  },
+  {
+   "id": "VK260142",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 150,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.57329694067128,
+    "lng": 104.91430509900441,
+    "name": "Touch Pisey",
+    "phone": "052 561 880",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 150,
+   "createdAt": "2026-07-30T00:25:03.828Z"
+  },
+  {
+   "id": "VK260114",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.581937534464524,
+    "lng": 104.91014295944245,
+    "name": "Ly Chenda",
+    "phone": "086 378 487",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2026-07-29T06:35:15.344Z"
+  },
+  {
+   "id": "VK260087",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 263.12,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.56747754550539,
+    "lng": 104.92732128879055,
+    "name": "Kim Rithy",
+    "phone": "032 725 711",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 263.12,
+   "createdAt": "2026-07-29T01:45:40.354Z"
+  },
+  {
+   "id": "VK260034",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 2999.72,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.561175505518914,
+    "lng": 104.92331819925225,
+    "name": "Meas Bopha",
+    "phone": "057 271 138",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2999.72,
+   "createdAt": "2026-07-27T22:25:22.040Z"
+  },
+  {
+   "id": "VK260095",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 2478.36,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.55686245733872,
+    "lng": 104.92412712391,
+    "name": "Kim Rithy",
+    "phone": "038 534 857",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2478.36,
+   "createdAt": "2026-07-27T16:13:40.213Z"
+  },
+  {
+   "id": "VK260117",
+   "paid": false,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 930.1,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.577614821549506,
+    "lng": 104.90196817659074,
+    "name": "Nhem Sreymom",
+    "phone": "091 798 355",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 930.1,
+   "createdAt": "2026-07-23T15:03:25.693Z"
+  },
+  {
+   "id": "VK260123",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 1192.22,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.588351731151343,
+    "lng": 104.91142581144581,
+    "name": "Seng Rotha",
+    "phone": "022 772 589",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1192.22,
+   "createdAt": "2026-07-21T01:00:12.473Z"
+  },
+  {
+   "id": "VK260122",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1568.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.577393186623231,
+    "lng": 104.92671721244464,
+    "name": "Kim Rithy",
+    "phone": "055 291 903",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1568.1,
+   "createdAt": "2026-07-20T06:58:33.082Z"
+  },
+  {
+   "id": "VK260020",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 1525.24,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.557010499723257,
+    "lng": 104.91623502465431,
+    "name": "Heng Visal",
+    "phone": "053 336 354",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1525.24,
+   "createdAt": "2026-07-19T04:52:54.981Z"
+  },
+  {
+   "id": "VK260158",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3197,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.581791941588746,
+    "lng": 104.91372959882487,
+    "name": "Chan Sophea",
+    "phone": "031 962 526",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3197,
+   "createdAt": "2026-07-15T19:46:04.982Z"
+  },
+  {
+   "id": "VK260088",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 199.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.581826305193827,
+    "lng": 104.90149545969675,
+    "name": "Heng Visal",
+    "phone": "081 402 232",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 199.2,
+   "createdAt": "2026-07-10T17:18:02.752Z"
+  },
+  {
+   "id": "VK260177",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 2338.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.552615125011654,
+    "lng": 104.91870443713618,
+    "name": "Meas Bopha",
+    "phone": "085 814 993",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2338.2,
+   "createdAt": "2026-07-07T04:51:29.337Z"
+  },
+  {
+   "id": "VK260138",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.579208131171765,
+    "lng": 104.92370597703615,
+    "name": "Phan Vuthy",
+    "phone": "079 469 739",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2026-07-06T22:37:18.314Z"
+  },
+  {
+   "id": "VK260075",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1199,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.550556765124202,
+    "lng": 104.8942724584113,
+    "name": "Keo Sambath",
+    "phone": "096 412 452",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1199,
+   "createdAt": "2026-07-06T18:18:02.738Z"
+  },
+  {
+   "id": "VK260186",
+   "paid": false,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 2755.5,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.567977216206492,
+    "lng": 104.93386386726984,
+    "name": "Meas Bopha",
+    "phone": "028 576 963",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2755.5,
+   "createdAt": "2026-07-03T10:35:09.749Z"
+  },
+  {
+   "id": "VK260043",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 1022.35,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.566830786215142,
+    "lng": 104.93754646703368,
+    "name": "Phan Vuthy",
+    "phone": "058 683 706",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1022.35,
+   "createdAt": "2026-07-01T23:48:40.284Z"
+  },
+  {
+   "id": "VK260156",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 1149,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.572449971027673,
+    "lng": 104.91368315883214,
+    "name": "Heng Visal",
+    "phone": "083 894 854",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1149,
+   "createdAt": "2026-07-01T23:16:22.369Z"
+  },
+  {
+   "id": "VK260016",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 2426.4,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.55294937551953,
+    "lng": 104.90303745422047,
+    "name": "Sok Dara",
+    "phone": "097 700 770",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2426.4,
+   "createdAt": "2026-07-01T21:10:04.132Z"
+  },
+  {
+   "id": "VK260049",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 463.95,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.553305778922514,
+    "lng": 104.91098745268305,
+    "name": "Kim Rithy",
+    "phone": "035 104 617",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 463.95,
+   "createdAt": "2026-06-28T14:17:45.962Z"
+  },
+  {
+   "id": "VK260116",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 2392.35,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.582959869569168,
+    "lng": 104.92517018769635,
+    "name": "Keo Sambath",
+    "phone": "018 218 635",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2392.35,
+   "createdAt": "2026-06-25T14:22:29.345Z"
+  },
+  {
+   "id": "VK260066",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    },
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 478.67,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.575151517987251,
+    "lng": 104.90193060224178,
+    "name": "Lim Srey Leak",
+    "phone": "076 874 464",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 478.67,
+   "createdAt": "2026-06-20T03:54:03.714Z"
+  },
+  {
+   "id": "VK260036",
+   "paid": false,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 1598,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56082318628207,
+    "lng": 104.90337108509615,
+    "name": "Touch Pisey",
+    "phone": "070 974 144",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1598,
+   "createdAt": "2026-06-18T16:32:17.330Z"
+  },
+  {
+   "id": "VK260159",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2593.28,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.588404175275937,
+    "lng": 104.90840966452146,
+    "name": "Touch Pisey",
+    "phone": "073 256 641",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2593.28,
+   "createdAt": "2026-06-17T19:24:31.645Z"
+  },
+  {
+   "id": "VK260055",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3796,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.553521157270298,
+    "lng": 104.90448602174642,
+    "name": "Ly Chenda",
+    "phone": "076 355 445",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3796,
+   "createdAt": "2026-06-11T06:02:26.375Z"
+  },
+  {
+   "id": "VK260026",
+   "paid": false,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 2796.4,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.58296301053837,
+    "lng": 104.92112453288631,
+    "name": "Meas Bopha",
+    "phone": "046 970 953",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2796.4,
+   "createdAt": "2026-06-08T09:31:25.333Z"
+  },
+  {
+   "id": "VK260169",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3397,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.564304931061343,
+    "lng": 104.91894127410836,
+    "name": "Nhem Sreymom",
+    "phone": "051 883 849",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3397,
+   "createdAt": "2026-06-05T20:19:03.862Z"
+  },
+  {
+   "id": "VK260165",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 4206.5,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.57891465496272,
+    "lng": 104.91854818031192,
+    "name": "Seng Rotha",
+    "phone": "059 705 856",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 4206.5,
+   "createdAt": "2026-06-05T06:32:13.619Z"
+  },
+  {
+   "id": "VK260147",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 2042.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.559766029249877,
+    "lng": 104.90280334681505,
+    "name": "Meas Bopha",
+    "phone": "040 730 821",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2042.1,
+   "createdAt": "2026-06-04T14:38:23.569Z"
+  },
+  {
+   "id": "VK260039",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1332.55,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.589550213236363,
+    "lng": 104.89878664306364,
+    "name": "Heng Visal",
+    "phone": "026 675 651",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1332.55,
+   "createdAt": "2026-06-02T15:48:03.265Z"
+  },
+  {
+   "id": "VK260023",
+   "paid": false,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 77,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.57389635947533,
+    "lng": 104.89450252136216,
+    "name": "Sok Dara",
+    "phone": "025 875 879",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 75,
+   "createdAt": "2026-06-02T11:14:41.361Z"
+  },
+  {
+   "id": "VK260084",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1997,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.578124993937092,
+    "lng": 104.90671479140642,
+    "name": "Meas Bopha",
+    "phone": "033 326 419",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1997,
+   "createdAt": "2026-05-29T01:58:34.409Z"
+  },
+  {
+   "id": "VK260080",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 2922.64,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.563034179247916,
+    "lng": 104.89309666298563,
+    "name": "Chan Sophea",
+    "phone": "055 796 589",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2922.64,
+   "createdAt": "2026-05-28T06:35:59.306Z"
+  },
+  {
+   "id": "VK260093",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 287.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.55631413771771,
+    "lng": 104.91350776926615,
+    "name": "Kim Rithy",
+    "phone": "011 817 377",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 287.4,
+   "createdAt": "2026-05-27T20:57:08.034Z"
+  },
+  {
+   "id": "VK260057",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 90.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.567538706595078,
+    "lng": 104.89103442829568,
+    "name": "Touch Pisey",
+    "phone": "073 159 132",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 88.2,
+   "createdAt": "2026-05-22T07:44:32.564Z"
+  },
+  {
+   "id": "VK260132",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 77,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.578616570588203,
+    "lng": 104.91842574152165,
+    "name": "Phan Vuthy",
+    "phone": "035 156 916",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 75,
+   "createdAt": "2026-05-20T10:17:30.163Z"
+  },
+  {
+   "id": "VK260146",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 1968.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.557133663306013,
+    "lng": 104.89042841958347,
+    "name": "Sok Dara",
+    "phone": "075 549 898",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1968.1,
+   "createdAt": "2026-05-18T17:21:18.988Z"
+  },
+  {
+   "id": "VK260148",
+   "paid": false,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1661.12,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.574817171245813,
+    "lng": 104.90085746660829,
+    "name": "Sok Dara",
+    "phone": "081 171 771",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1661.12,
+   "createdAt": "2026-05-18T14:46:08.345Z"
+  },
+  {
+   "id": "VK260051",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 1195.08,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.555233974037693,
+    "lng": 104.9299853410432,
+    "name": "Nhem Sreymom",
+    "phone": "012 411 554",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1195.08,
+   "createdAt": "2026-05-15T16:37:57.610Z"
+  },
+  {
+   "id": "VK260149",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 1195.08,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.576853641830386,
+    "lng": 104.92630737455096,
+    "name": "Phan Vuthy",
+    "phone": "035 165 822",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1195.08,
+   "createdAt": "2026-05-13T06:02:49.763Z"
+  },
+  {
+   "id": "VK260129",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 661.52,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.572702727755532,
+    "lng": 104.92716229520505,
+    "name": "Nhem Sreymom",
+    "phone": "054 188 636",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 661.52,
+   "createdAt": "2026-05-13T04:50:40.820Z"
+  },
+  {
+   "id": "VK260021",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 598.2,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.561010757740588,
+    "lng": 104.90669936956606,
+    "name": "Heng Visal",
+    "phone": "065 816 417",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 598.2,
+   "createdAt": "2026-05-12T20:33:57.466Z"
+  },
+  {
+   "id": "VK260152",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1597.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587187719084323,
+    "lng": 104.90089271272068,
+    "name": "Touch Pisey",
+    "phone": "010 165 546",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1597.4,
+   "createdAt": "2026-05-11T08:08:39.444Z"
+  },
+  {
+   "id": "VK260154",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 2130.55,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.553572434848174,
+    "lng": 104.92573763123714,
+    "name": "Kim Rithy",
+    "phone": "031 740 937",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2130.55,
+   "createdAt": "2026-05-11T02:46:23.676Z"
+  },
+  {
+   "id": "VK260153",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 1324.24,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.57496678181924,
+    "lng": 104.90694310911698,
+    "name": "Meas Bopha",
+    "phone": "073 799 332",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1324.24,
+   "createdAt": "2026-05-11T00:54:21.559Z"
+  },
+  {
+   "id": "VK260141",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3332.15,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558080576295033,
+    "lng": 104.92902455597418,
+    "name": "Kim Rithy",
+    "phone": "039 426 992",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3332.15,
+   "createdAt": "2026-05-10T14:17:18.053Z"
+  },
+  {
+   "id": "VK260031",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 3466.3,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.560280493479222,
+    "lng": 104.91482982743531,
+    "name": "Chan Sophea",
+    "phone": "093 341 572",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3466.3,
+   "createdAt": "2026-05-09T20:54:37.057Z"
+  },
+  {
+   "id": "VK260083",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 46.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.553788436725736,
+    "lng": 104.91407735696761,
+    "name": "Touch Pisey",
+    "phone": "014 242 773",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 44.1,
+   "createdAt": "2026-05-06T04:19:52.960Z"
+  },
+  {
+   "id": "VK260127",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 487.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.576547334576027,
+    "lng": 104.91981608284172,
+    "name": "Ly Chenda",
+    "phone": "015 392 116",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 487.2,
+   "createdAt": "2026-05-05T01:37:56.217Z"
+  },
+  {
+   "id": "VK260157",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1243.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.558104884680361,
+    "lng": 104.93271507753292,
+    "name": "Ly Chenda",
+    "phone": "058 660 574",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1243.1,
+   "createdAt": "2026-05-03T15:34:31.197Z"
+  },
+  {
+   "id": "VK260120",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1398.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.550542646432296,
+    "lng": 104.91429562534671,
+    "name": "Sok Dara",
+    "phone": "034 511 900",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1398.2,
+   "createdAt": "2026-05-02T01:22:52.790Z"
+  },
+  {
+   "id": "VK260033",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.57251968987286,
+    "lng": 104.89541392161976,
+    "name": "Touch Pisey",
+    "phone": "027 636 627",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2026-05-01T22:35:35.737Z"
+  },
+  {
+   "id": "VK260098",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.577483155000955,
+    "lng": 104.9075007202779,
+    "name": "Nhem Sreymom",
+    "phone": "076 235 541",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2026-05-01T00:32:32.693Z"
+  },
+  {
+   "id": "VK260006",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 1776.25,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574986921390519,
+    "lng": 104.90136942753801,
+    "name": "Keo Sambath",
+    "phone": "061 515 147",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1776.25,
+   "createdAt": "2026-04-30T21:12:52.366Z"
+  },
+  {
+   "id": "VK260176",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 2338.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.58691486275755,
+    "lng": 104.91838674569503,
+    "name": "Nhem Sreymom",
+    "phone": "071 379 633",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2338.2,
+   "createdAt": "2026-04-21T20:21:00.322Z"
+  },
+  {
+   "id": "VK260077",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558200301192702,
+    "lng": 104.92737625851063,
+    "name": "Phan Vuthy",
+    "phone": "024 836 425",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2026-04-20T16:18:41.081Z"
+  },
+  {
+   "id": "VK260050",
+   "paid": false,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 999,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.564326532501727,
+    "lng": 104.90415589848766,
+    "name": "Ly Chenda",
+    "phone": "090 327 763",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999,
+   "createdAt": "2026-04-13T21:30:57.803Z"
+  },
+  {
+   "id": "VK260046",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 2532.15,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558709988566116,
+    "lng": 104.89263251799625,
+    "name": "Phan Vuthy",
+    "phone": "093 407 262",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2532.15,
+   "createdAt": "2026-04-10T01:55:32.303Z"
+  },
+  {
+   "id": "VK260045",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 999,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.551789640607312,
+    "lng": 104.9098152593919,
+    "name": "Phan Vuthy",
+    "phone": "021 126 838",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999,
+   "createdAt": "2026-04-07T09:48:23.611Z"
+  },
+  {
+   "id": "VK260086",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 67.55,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.554842106057333,
+    "lng": 104.90297233112855,
+    "name": "Nhem Sreymom",
+    "phone": "044 665 567",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 65.55,
+   "createdAt": "2026-04-07T04:59:43.105Z"
+  },
+  {
+   "id": "VK260047",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1199,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.550742362216116,
+    "lng": 104.90837499164977,
+    "name": "Keo Sambath",
+    "phone": "022 540 270",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1199,
+   "createdAt": "2026-04-07T02:00:30.575Z"
+  },
+  {
+   "id": "VK260054",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 2398,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.56981044529006,
+    "lng": 104.9052749236906,
+    "name": "Nhem Sreymom",
+    "phone": "066 774 569",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2398,
+   "createdAt": "2026-04-06T07:31:53.198Z"
+  },
+  {
+   "id": "VK260025",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 3466.3,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56677271024324,
+    "lng": 104.93945752435597,
+    "name": "Lim Srey Leak",
+    "phone": "010 291 201",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3466.3,
+   "createdAt": "2026-04-05T00:00:43.642Z"
+  },
+  {
+   "id": "VK260167",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1198.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.563629576871172,
+    "lng": 104.91350916125579,
+    "name": "Phan Vuthy",
+    "phone": "052 777 809",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1198.2,
+   "createdAt": "2026-04-01T14:48:43.194Z"
+  },
+  {
+   "id": "VK260001",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 5804.5,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.552466166354716,
+    "lng": 104.91193444604055,
+    "name": "Chan Sophea",
+    "phone": "060 524 536",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 5804.5,
+   "createdAt": "2026-04-01T11:26:05.957Z"
+  },
+  {
+   "id": "VK260074",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 2168.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574161840984598,
+    "lng": 104.91765081545803,
+    "name": "Chan Sophea",
+    "phone": "021 227 104",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2168.1,
+   "createdAt": "2026-04-01T08:12:54.116Z"
+  },
+  {
+   "id": "VK260007",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 1197.4,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.584493915652857,
+    "lng": 104.92586502220715,
+    "name": "Seng Rotha",
+    "phone": "096 672 447",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1197.4,
+   "createdAt": "2026-03-30T20:53:12.337Z"
+  },
+  {
+   "id": "VK260110",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1397.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.588629769990222,
+    "lng": 104.92838504019659,
+    "name": "Meas Bopha",
+    "phone": "060 332 522",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1397.4,
+   "createdAt": "2026-03-27T05:51:14.546Z"
+  },
+  {
+   "id": "VK260072",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 131.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.55135836605914,
+    "lng": 104.91826706863706,
+    "name": "Heng Visal",
+    "phone": "014 296 181",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 131.1,
+   "createdAt": "2026-03-20T06:29:23.746Z"
+  },
+  {
+   "id": "VK260099",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 999.7,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56990630065091,
+    "lng": 104.8980049413722,
+    "name": "Kim Rithy",
+    "phone": "068 371 240",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999.7,
+   "createdAt": "2026-03-16T09:56:35.634Z"
+  },
+  {
+   "id": "VK260005",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 3388.36,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.578073309268802,
+    "lng": 104.90084534830879,
+    "name": "Touch Pisey",
+    "phone": "063 238 680",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3388.36,
+   "createdAt": "2026-03-14T06:55:13.413Z"
+  },
+  {
+   "id": "VK260014",
+   "paid": false,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 918.1,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.581357184965164,
+    "lng": 104.9106049254979,
+    "name": "Heng Visal",
+    "phone": "059 578 901",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 918.1,
+   "createdAt": "2026-03-14T02:54:41.217Z"
+  },
+  {
+   "id": "VK260144",
+   "paid": false,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 2338.2,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.57465545524843,
+    "lng": 104.90616623023293,
+    "name": "Nhem Sreymom",
+    "phone": "059 597 808",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2338.2,
+   "createdAt": "2026-03-13T15:45:57.347Z"
+  },
+  {
+   "id": "VK260092",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 593.1,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.573895945558325,
+    "lng": 104.90549983648583,
+    "name": "Seng Rotha",
+    "phone": "028 813 603",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 593.1,
+   "createdAt": "2026-03-12T03:20:53.897Z"
+  },
+  {
+   "id": "VK260175",
+   "paid": false,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 77,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.57575908618048,
+    "lng": 104.92843847627286,
+    "name": "Lim Srey Leak",
+    "phone": "063 538 746",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 75,
+   "createdAt": "2026-03-10T20:20:07.471Z"
+  },
+  {
+   "id": "VK260135",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 398.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.570758609576151,
+    "lng": 104.89181013676338,
+    "name": "Meas Bopha",
+    "phone": "057 168 750",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 398.4,
+   "createdAt": "2026-03-06T19:12:50.863Z"
+  },
+  {
+   "id": "VK260171",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 398.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587610126743094,
+    "lng": 104.90552886855788,
+    "name": "Ly Chenda",
+    "phone": "076 269 363",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 398.4,
+   "createdAt": "2026-02-27T05:39:21.029Z"
+  },
+  {
+   "id": "VK260022",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 2148,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.588189477836714,
+    "lng": 104.92452718581539,
+    "name": "Nhem Sreymom",
+    "phone": "075 408 263",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2148,
+   "createdAt": "2026-02-22T06:16:04.501Z"
+  },
+  {
+   "id": "VK260015",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 1662.95,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.579466696800665,
+    "lng": 104.92029328796546,
+    "name": "Nhem Sreymom",
+    "phone": "032 527 216",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1662.95,
+   "createdAt": "2026-02-22T05:13:05.684Z"
+  },
+  {
+   "id": "VK260069",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 999,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.563931007981301,
+    "lng": 104.92032878107624,
+    "name": "Meas Bopha",
+    "phone": "023 817 189",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999,
+   "createdAt": "2026-02-20T21:52:46.269Z"
+  },
+  {
+   "id": "VK260164",
+   "paid": false,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1199,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.55830775331706,
+    "lng": 104.92234946068842,
+    "name": "Keo Sambath",
+    "phone": "067 706 610",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1199,
+   "createdAt": "2026-02-13T10:21:47.405Z"
+  },
+  {
+   "id": "VK260161",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 382.22,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587891128500925,
+    "lng": 104.89325450610835,
+    "name": "Nhem Sreymom",
+    "phone": "015 400 663",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 382.22,
+   "createdAt": "2026-02-13T06:03:48.905Z"
+  },
+  {
+   "id": "VK260065",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1397.4,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.587690540384502,
+    "lng": 104.91077802593121,
+    "name": "Nhem Sreymom",
+    "phone": "054 484 471",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1397.4,
+   "createdAt": "2026-02-04T02:44:12.699Z"
+  },
+  {
+   "id": "VK260073",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 1868.3,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.586030193232,
+    "lng": 104.89597186083905,
+    "name": "Ly Chenda",
+    "phone": "085 220 869",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1868.3,
+   "createdAt": "2026-02-03T03:22:50.066Z"
+  },
+  {
+   "id": "VK260133",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 199.2,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.5870385041181,
+    "lng": 104.90927488985238,
+    "name": "Lim Srey Leak",
+    "phone": "062 939 754",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 199.2,
+   "createdAt": "2026-02-01T04:26:42.415Z"
+  },
+  {
+   "id": "VK260184",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1198.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558117892406882,
+    "lng": 104.9053609406785,
+    "name": "Meas Bopha",
+    "phone": "056 922 856",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1198.2,
+   "createdAt": "2026-01-28T20:03:26.450Z"
+  },
+  {
+   "id": "VK260052",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 1458.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.567361385589466,
+    "lng": 104.90572056108853,
+    "name": "Sok Dara",
+    "phone": "037 312 987",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1458.2,
+   "createdAt": "2026-01-26T16:59:22.885Z"
+  },
+  {
+   "id": "VK260180",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 2521.26,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.580515893101692,
+    "lng": 104.92325403047492,
+    "name": "Meas Bopha",
+    "phone": "089 324 382",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2521.26,
+   "createdAt": "2026-01-25T15:28:28.841Z"
+  },
+  {
+   "id": "VK260027",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 3081.5,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.56865552888252,
+    "lng": 104.90113917389884,
+    "name": "Chan Sophea",
+    "phone": "090 735 114",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3081.5,
+   "createdAt": "2026-01-18T02:14:21.407Z"
+  },
+  {
+   "id": "VK260160",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 3586.56,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.561755756400526,
+    "lng": 104.92520547123625,
+    "name": "Kim Rithy",
+    "phone": "059 257 379",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3586.56,
+   "createdAt": "2026-01-16T21:15:17.693Z"
+  },
+  {
+   "id": "VK260111",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1169.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.578365506259725,
+    "lng": 104.91222726105246,
+    "name": "Lim Srey Leak",
+    "phone": "078 512 566",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1169.1,
+   "createdAt": "2026-01-11T04:22:41.282Z"
+  },
+  {
+   "id": "VK260115",
+   "paid": false,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 614.44,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.553050459772349,
+    "lng": 104.90472077342915,
+    "name": "Meas Bopha",
+    "phone": "070 844 508",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 614.44,
+   "createdAt": "2026-01-06T04:05:54.973Z"
+  },
+  {
+   "id": "VK260166",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 2396,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.555716292522849,
+    "lng": 104.89676969224587,
+    "name": "Lim Srey Leak",
+    "phone": "046 281 252",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2396,
+   "createdAt": "2026-01-05T18:14:06.946Z"
+  },
+  {
+   "id": "VK260009",
+   "paid": false,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 2273,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.57511640738696,
+    "lng": 104.93903762788744,
+    "name": "Seng Rotha",
+    "phone": "028 840 407",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2273,
+   "createdAt": "2025-12-29T08:47:24.069Z"
+  },
+  {
+   "id": "VK260105",
+   "paid": false,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 1199,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.575920827277006,
+    "lng": 104.93183009297121,
+    "name": "Heng Visal",
+    "phone": "088 724 621",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1199,
+   "createdAt": "2025-12-26T17:26:48.926Z"
+  },
+  {
+   "id": "VK260008",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 1662.95,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.554511664360762,
+    "lng": 104.92127848457079,
+    "name": "Chan Sophea",
+    "phone": "014 714 258",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1662.95,
+   "createdAt": "2025-12-25T17:40:04.929Z"
+  },
+  {
+   "id": "VK260113",
+   "paid": false,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 3596,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.57980311526917,
+    "lng": 104.90985351920594,
+    "name": "Keo Sambath",
+    "phone": "040 968 900",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3596,
+   "createdAt": "2025-12-23T18:14:06.874Z"
+  },
+  {
+   "id": "VK260019",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 1933.85,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.586930891340598,
+    "lng": 104.90734060446033,
+    "name": "Sok Dara",
+    "phone": "046 195 696",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1933.85,
+   "createdAt": "2025-12-21T01:23:22.675Z"
+  },
+  {
+   "id": "VK260172",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 67.55,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574286166308449,
+    "lng": 104.9078421716555,
+    "name": "Seng Rotha",
+    "phone": "017 421 411",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 65.55,
+   "createdAt": "2025-12-20T15:34:43.774Z"
+  },
+  {
+   "id": "VK260056",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 2332.15,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.585301004452631,
+    "lng": 104.93052849669242,
+    "name": "Lim Srey Leak",
+    "phone": "044 119 138",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2332.15,
+   "createdAt": "2025-12-18T17:09:23.200Z"
+  },
+  {
+   "id": "VK260070",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 77,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.585669964570553,
+    "lng": 104.91220762607176,
+    "name": "Sok Dara",
+    "phone": "053 977 543",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 75,
+   "createdAt": "2025-12-15T03:34:33.602Z"
+  },
+  {
+   "id": "VK260032",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 199.2,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.569606522452087,
+    "lng": 104.92914909276645,
+    "name": "Chan Sophea",
+    "phone": "012 363 139",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 199.2,
+   "createdAt": "2025-12-07T17:31:35.562Z"
+  },
+  {
+   "id": "VK260145",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 1641.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.558786131432282,
+    "lng": 104.92856134274975,
+    "name": "Nhem Sreymom",
+    "phone": "081 497 858",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1641.1,
+   "createdAt": "2025-12-05T21:00:14.869Z"
+  },
+  {
+   "id": "VK260048",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 3577.38,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.551586121590809,
+    "lng": 104.92225273933495,
+    "name": "Ly Chenda",
+    "phone": "077 164 429",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3577.38,
+   "createdAt": "2025-12-05T03:01:12.594Z"
+  },
+  {
+   "id": "VK260183",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 1729.1,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.55593474155292,
+    "lng": 104.9318386164587,
+    "name": "Touch Pisey",
+    "phone": "018 338 571",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1729.1,
+   "createdAt": "2025-12-04T11:39:19.450Z"
+  },
+  {
+   "id": "VK260011",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 150,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.58839430006221,
+    "lng": 104.92040634416975,
+    "name": "Kim Rithy",
+    "phone": "062 431 898",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 150,
+   "createdAt": "2025-12-03T08:34:29.101Z"
+  },
+  {
+   "id": "VK260103",
+   "paid": false,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 934.15,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.58952485235408,
+    "lng": 104.90512426935369,
+    "name": "Seng Rotha",
+    "phone": "062 459 391",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 934.15,
+   "createdAt": "2025-12-01T18:51:12.433Z"
+  },
+  {
+   "id": "VK260188",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 67.55,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.574530714647846,
+    "lng": 104.89210972863715,
+    "name": "Lim Srey Leak",
+    "phone": "089 747 775",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 2,
+   "subtotal": 65.55,
+   "createdAt": "2025-11-29T06:41:54.985Z"
+  },
+  {
+   "id": "VK260030",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 1,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 2197.2,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.589982549389825,
+    "lng": 104.93558005570434,
+    "name": "Lim Srey Leak",
+    "phone": "095 268 207",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2197.2,
+   "createdAt": "2025-11-21T21:39:34.209Z"
+  },
+  {
+   "id": "VK260108",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.55083732505329,
+    "lng": 104.91794172960566,
+    "name": "Touch Pisey",
+    "phone": "075 744 959",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2025-11-21T04:03:01.303Z"
+  },
+  {
+   "id": "VK260137",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 4788.16,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.556769478777424,
+    "lng": 104.89266065920005,
+    "name": "Touch Pisey",
+    "phone": "072 528 174",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 4788.16,
+   "createdAt": "2025-11-19T02:45:30.349Z"
+  },
+  {
+   "id": "VK260140",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 109.65,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.585665613785388,
+    "lng": 104.9202813151502,
+    "name": "Phan Vuthy",
+    "phone": "088 574 250",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 109.65,
+   "createdAt": "2025-11-18T06:11:01.496Z"
+  },
+  {
+   "id": "VK260064",
+   "paid": false,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p10",
+     "qty": 2,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3397,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56541227865033,
+    "lng": 104.89734278006712,
+    "name": "Lim Srey Leak",
+    "phone": "076 710 234",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3397,
+   "createdAt": "2025-11-16T01:50:21.716Z"
+  },
+  {
+   "id": "VK260125",
+   "paid": true,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p12",
+     "qty": 1,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 119.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.554906598506497,
+    "lng": 104.90851928667165,
+    "name": "Kim Rithy",
+    "phone": "074 143 395",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 119.1,
+   "createdAt": "2025-11-08T05:15:27.980Z"
+  },
+  {
+   "id": "VK260060",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 999,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.586008267719299,
+    "lng": 104.93114144074265,
+    "name": "Keo Sambath",
+    "phone": "063 647 912",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999,
+   "createdAt": "2025-11-08T04:46:28.067Z"
+  },
+  {
+   "id": "VK260151",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 2797,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.580890612462536,
+    "lng": 104.89577512482414,
+    "name": "Heng Visal",
+    "phone": "029 287 687",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2797,
+   "createdAt": "2025-11-07T06:23:29.995Z"
+  },
+  {
+   "id": "VK260042",
+   "paid": false,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 109.65,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.582756214831026,
+    "lng": 104.93434084584936,
+    "name": "Touch Pisey",
+    "phone": "043 701 765",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 109.65,
+   "createdAt": "2025-10-31T03:21:31.450Z"
+  },
+  {
+   "id": "VK260076",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 864.55,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.567112272819505,
+    "lng": 104.92104380420409,
+    "name": "Seng Rotha",
+    "phone": "020 418 663",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 864.55,
+   "createdAt": "2025-10-31T02:21:37.653Z"
+  },
+  {
+   "id": "VK260181",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 399,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.559701818004251,
+    "lng": 104.89629532007733,
+    "name": "Nhem Sreymom",
+    "phone": "089 452 578",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 399,
+   "createdAt": "2025-10-28T01:00:08.783Z"
+  },
+  {
+   "id": "VK260168",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 4787.16,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.563621869394556,
+    "lng": 104.89304370666854,
+    "name": "Nhem Sreymom",
+    "phone": "051 835 802",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 4787.16,
+   "createdAt": "2025-10-23T00:31:12.495Z"
+  },
+  {
+   "id": "VK260155",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.562554222606122,
+    "lng": 104.8990967891505,
+    "name": "Touch Pisey",
+    "phone": "052 622 536",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2025-10-20T10:42:30.194Z"
+  },
+  {
+   "id": "VK260002",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 1567.5,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.580419446956366,
+    "lng": 104.9066955652996,
+    "name": "Kim Rithy",
+    "phone": "084 267 656",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1567.5,
+   "createdAt": "2025-10-17T06:06:06.921Z"
+  },
+  {
+   "id": "VK260124",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 1868.3,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.577682406213135,
+    "lng": 104.92186487765052,
+    "name": "Keo Sambath",
+    "phone": "082 394 649",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1868.3,
+   "createdAt": "2025-10-16T10:12:01.205Z"
+  },
+  {
+   "id": "VK260017",
+   "paid": true,
+   "items": [
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    },
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    }
+   ],
+   "total": 2469.3,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.576723557524383,
+    "lng": 104.90963413493941,
+    "name": "Seng Rotha",
+    "phone": "049 904 766",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2469.3,
+   "createdAt": "2025-10-14T16:06:46.214Z"
+  },
+  {
+   "id": "VK260094",
+   "paid": true,
+   "items": [
+    {
+     "id": "p5",
+     "qty": 1,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    },
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 1198,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.572223411276937,
+    "lng": 104.90995051027043,
+    "name": "Phan Vuthy",
+    "phone": "066 754 553",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1198,
+   "createdAt": "2025-10-10T20:48:28.990Z"
+  },
+  {
+   "id": "VK260063",
+   "paid": true,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.589086888851599,
+    "lng": 104.93385495878523,
+    "name": "Sok Dara",
+    "phone": "018 570 924",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2025-10-07T23:52:55.542Z"
+  },
+  {
+   "id": "VK260035",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 843.1,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.568849062034861,
+    "lng": 104.91718992300797,
+    "name": "Nhem Sreymom",
+    "phone": "048 928 861",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 843.1,
+   "createdAt": "2025-10-04T05:08:26.083Z"
+  },
+  {
+   "id": "VK260044",
+   "paid": false,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    }
+   ],
+   "total": 398.4,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.551896564839408,
+    "lng": 104.9062504429929,
+    "name": "Ly Chenda",
+    "phone": "028 711 436",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 398.4,
+   "createdAt": "2025-09-27T08:12:47.753Z"
+  },
+  {
+   "id": "VK260182",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p2",
+     "qty": 1,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 1300.2,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.555861709108576,
+    "lng": 104.92687581515405,
+    "name": "Keo Sambath",
+    "phone": "084 674 190",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1300.2,
+   "createdAt": "2025-09-25T01:09:48.865Z"
+  },
+  {
+   "id": "VK260136",
+   "paid": true,
+   "items": [
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 150,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.56324020105414,
+    "lng": 104.891467983576,
+    "name": "Seng Rotha",
+    "phone": "089 376 120",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 150,
+   "createdAt": "2025-09-25T00:08:25.740Z"
+  },
+  {
+   "id": "VK260062",
+   "paid": true,
+   "items": [
+    {
+     "id": "p9",
+     "qty": 1,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 799,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.562768171541393,
+    "lng": 104.89777500860859,
+    "name": "Touch Pisey",
+    "phone": "019 147 351",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 799,
+   "createdAt": "2025-09-16T10:05:26.194Z"
+  },
+  {
+   "id": "VK260010",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    }
+   ],
+   "total": 3132.15,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.570557266166434,
+    "lng": 104.93207595010522,
+    "name": "Sok Dara",
+    "phone": "016 776 979",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3132.15,
+   "createdAt": "2025-09-11T09:26:44.498Z"
+  },
+  {
+   "id": "VK260190",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 999,
+   "status": "completed",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.559080631444232,
+    "lng": 104.90192046672804,
+    "name": "Nhem Sreymom",
+    "phone": "014 651 213",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 999,
+   "createdAt": "2025-09-08T02:30:28.515Z"
+  },
+  {
+   "id": "VK260091",
+   "paid": false,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 842.1,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.560535994488747,
+    "lng": 104.93705488124164,
+    "name": "Touch Pisey",
+    "phone": "084 494 525",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 842.1,
+   "createdAt": "2025-09-06T00:47:12.042Z"
+  },
+  {
+   "id": "VK260085",
+   "paid": false,
+   "items": [
+    {
+     "id": "p11",
+     "qty": 2,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 614.44,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.563163278149442,
+    "lng": 104.93333580617094,
+    "name": "Kim Rithy",
+    "phone": "065 628 838",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 614.44,
+   "createdAt": "2025-09-05T21:31:27.520Z"
+  },
+  {
+   "id": "VK260081",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 2,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    }
+   ],
+   "total": 1998,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.559030927652493,
+    "lng": 104.89552221362014,
+    "name": "Touch Pisey",
+    "phone": "070 299 610",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1998,
+   "createdAt": "2025-09-04T00:25:07.408Z"
+  },
+  {
+   "id": "VK260053",
+   "paid": false,
+   "items": [
+    {
+     "id": "p7",
+     "qty": 2,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    }
+   ],
+   "total": 2390.16,
+   "status": "pending",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.574590032761916,
+    "lng": 104.91111449008808,
+    "name": "Phan Vuthy",
+    "phone": "086 405 987",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2390.16,
+   "createdAt": "2025-09-01T22:12:48.518Z"
+  },
+  {
+   "id": "VK260131",
+   "paid": false,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p7",
+     "qty": 1,
+     "name": "Galaxy S24 Ultra",
+     "image": "/vk/img/products/p1-3.jpg",
+     "price": 1195.08,
+     "category": "phones"
+    },
+    {
+     "id": "p12",
+     "qty": 2,
+     "name": "DualSense Controller",
+     "image": "/vk/img/products/p6-4.jpg",
+     "price": 75,
+     "category": "gaming"
+    }
+   ],
+   "total": 2344.08,
+   "status": "processing",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.579589166706429,
+    "lng": 104.89538967278553,
+    "name": "Meas Bopha",
+    "phone": "033 235 627",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2344.08,
+   "createdAt": "2025-08-31T01:32:40.698Z"
+  },
+  {
+   "id": "VK260178",
+   "paid": true,
+   "items": [
+    {
+     "id": "p10",
+     "qty": 1,
+     "name": "Dell XPS 13",
+     "image": "/vk/img/products/p2-2.jpg",
+     "price": 1199,
+     "category": "laptops"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 2797,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.570473929187283,
+    "lng": 104.89679508298636,
+    "name": "Kim Rithy",
+    "phone": "022 487 870",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2797,
+   "createdAt": "2025-08-29T09:23:42.030Z"
+  },
+  {
+   "id": "VK260089",
+   "paid": false,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 1,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p2",
+     "qty": 2,
+     "name": "MacBook Air M2",
+     "image": "/vk/img/products/p2-1.jpg",
+     "price": 1169.1,
+     "category": "laptops"
+    }
+   ],
+   "total": 3402.75,
+   "status": "cancelled",
+   "userId": null,
+   "payment": "cod",
+   "customer": {
+    "lat": 11.58919932026416,
+    "lng": 104.92156493526186,
+    "name": "Lim Srey Leak",
+    "phone": "043 152 568",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3402.75,
+   "createdAt": "2025-08-29T06:46:46.350Z"
+  },
+  {
+   "id": "VK260189",
+   "paid": true,
+   "items": [
+    {
+     "id": "p3",
+     "qty": 2,
+     "name": "AirPods Pro (2nd gen)",
+     "image": "/vk/img/products/p3-1.jpg",
+     "price": 199.2,
+     "category": "audio"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    }
+   ],
+   "total": 924.64,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.575150656737389,
+    "lng": 104.91328580492176,
+    "name": "Heng Visal",
+    "phone": "052 519 105",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 924.64,
+   "createdAt": "2025-08-28T01:01:56.764Z"
+  },
+  {
+   "id": "VK260041",
+   "paid": true,
+   "items": [
+    {
+     "id": "p1",
+     "qty": 2,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    },
+    {
+     "id": "p9",
+     "qty": 2,
+     "name": "Apple Watch Ultra 2",
+     "image": "/vk/img/products/p4-2.jpg",
+     "price": 799,
+     "category": "watches"
+    }
+   ],
+   "total": 3466.3,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.576890699192882,
+    "lng": 104.92449578870786,
+    "name": "Meas Bopha",
+    "phone": "013 952 504",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 3466.3,
+   "createdAt": "2025-08-24T05:24:08.714Z"
+  },
+  {
+   "id": "VK260100",
+   "paid": true,
+   "items": [
+    {
+     "id": "p8",
+     "qty": 1,
+     "name": "iPad Pro 11\"",
+     "image": "/vk/img/products/p8-1.jpg",
+     "price": 999,
+     "category": "tablets"
+    },
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p1",
+     "qty": 1,
+     "name": "iPhone 15 Pro",
+     "image": "/vk/img/products/p1-1.jpg",
+     "price": 934.15,
+     "category": "phones"
+    }
+   ],
+   "total": 2196.27,
+   "status": "pending",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.553933814251796,
+    "lng": 104.91047295516823,
+    "name": "Keo Sambath",
+    "phone": "064 880 875",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 2196.27,
+   "createdAt": "2025-08-22T06:35:17.596Z"
+  },
+  {
+   "id": "VK260121",
+   "paid": true,
+   "items": [
+    {
+     "id": "p6",
+     "qty": 2,
+     "name": "Xbox Wireless Controller",
+     "image": "/vk/img/products/p6-1.jpg",
+     "price": 65.55,
+     "category": "gaming"
+    },
+    {
+     "id": "p4",
+     "qty": 2,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p5",
+     "qty": 2,
+     "name": "Sony WH‑1000XM5",
+     "image": "/vk/img/products/p5-1.jpg",
+     "price": 399,
+     "category": "audio"
+    }
+   ],
+   "total": 1455.34,
+   "status": "completed",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.550615136483685,
+    "lng": 104.93216572778532,
+    "name": "Chan Sophea",
+    "phone": "029 538 503",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 1455.34,
+   "createdAt": "2025-08-18T04:39:39.049Z"
+  },
+  {
+   "id": "VK260104",
+   "paid": true,
+   "items": [
+    {
+     "id": "p4",
+     "qty": 1,
+     "name": "Galaxy Watch 6",
+     "image": "/vk/img/products/p4-1.jpg",
+     "price": 263.12,
+     "category": "watches"
+    },
+    {
+     "id": "p11",
+     "qty": 1,
+     "name": "65W GaN Charger Kit",
+     "image": "/vk/img/products/p11-1.jpg",
+     "price": 44.1,
+     "category": "accessories"
+    }
+   ],
+   "total": 307.22,
+   "status": "processing",
+   "userId": null,
+   "payment": "khqr",
+   "customer": {
+    "lat": 11.589946521837264,
+    "lng": 104.89852171786828,
+    "name": "Keo Sambath",
+    "phone": "060 668 506",
+    "address": "Phnom Penh, Cambodia"
+   },
+   "discount": 0,
+   "shipping": 0,
+   "subtotal": 307.22,
+   "createdAt": "2025-08-14T01:10:50.573Z"
+  }
+ ],
+ "settings": {
+  "hero": [
+   {
+    "id": "h1",
+    "desc": {
+     "en": "Discover the latest smartphones, laptops and accessories with exceptional quality and unbeatable prices.",
+     "km": "ស្វែងរកស្មាតហ្វូន កុំព្យូទ័រយួរដៃ និងគ្រឿងបន្លាស់ចុងក្រោយ ជាមួយគុណភាពល្អឥតខ្ចោះ និងតម្លៃសមរម្យបំផុត។"
+    },
+    "link": "/shop",
+    "image": "/vk/img/banners/hero.jpg",
+    "active": true,
+    "button": {
+     "en": "Discover the collection",
+     "km": "ស្វែងរកការប្រមូលផ្ដុំ"
+    },
+    "title1": {
+     "en": "Technology",
+     "km": "បច្ចេកវិទ្យា"
+    },
+    "title2": {
+     "en": "within your reach",
+     "km": "នៅក្បែរដៃអ្នក"
+    }
+   },
+   {
+    "id": "h2",
+    "desc": {
+     "en": "Premium headphones and earbuds with noise cancelling for every moment.",
+     "km": "កាស និងកាសត្រចៀកកម្រិតខ្ពស់ ជាមួយមុខងារកាត់សំឡេងរំខាន។"
+    },
+    "link": "/shop?cat=audio",
+    "image": "/vk/img/banners/promo.jpg",
+    "active": true,
+    "button": {
+     "en": "Shop audio",
+     "km": "ទិញឧបករណ៍សំឡេង"
+    },
+    "title1": {
+     "en": "Sound that",
+     "km": "សំឡេងដែល"
+    },
+    "title2": {
+     "en": "moves you",
+     "km": "ធ្វើឲ្យអ្នករំភើប"
+    }
+   },
+   {
+    "id": "h3",
+    "desc": {
+     "en": "Smartwatches that track your health, fitness and notifications.",
+     "km": "នាឡិកាឆ្លាតវៃ តាមដានសុខភាព ហាត់ប្រាណ និងការជូនដំណឹង។"
+    },
+    "link": "/shop?cat=watches",
+    "image": "/vk/img/banners/auth.jpg",
+    "active": true,
+    "button": {
+     "en": "Shop watches",
+     "km": "ទិញនាឡិកា"
+    },
+    "title1": {
+     "en": "Smart life",
+     "km": "ជីវិតឆ្លាតវៃ"
+    },
+    "title2": {
+     "en": "on your wrist",
+     "km": "នៅលើកដៃអ្នក"
+    }
+   }
+  ],
+  "khqr": {
+   "city": "Phnom Penh",
+   "token": "",
+   "expire": 180,
+   "currency": "USD",
+   "accountId": "vk_etn@aclb",
+   "merchantName": "VK ETN"
+  },
+  "logo": "",
+  "about": {
+   "en": "",
+   "km": ""
+  },
+  "email": "support@vketn.com",
+  "phone": "+855 12 345 678",
+  "promo": {
+   "desc": {
+    "en": "Equip yourself with the best brands and enjoy our limited offers!",
+    "km": "បំពាក់ខ្លួនអ្នកជាមួយម៉ាកល្អបំផុត និងរីករាយជាមួយការផ្ដល់ជូនមានកំណត់!"
+   },
+   "link": "/shop?sale=1",
+   "image": "/vk/img/banners/promo.jpg",
+   "label": {
+    "en": "Special offer",
+    "km": "ការផ្ដល់ជូនពិសេស"
+   },
+   "title": {
+    "en": "Up to -20%",
+    "km": "បញ្ចុះរហូតដល់ -20%"
+   },
+   "active": true,
+   "button": {
+    "en": "See the offer",
+    "km": "មើលការផ្ដល់ជូន"
+   },
+   "subtitle": {
+    "en": "on a selection of products",
+    "km": "លើផលិតផលដែលបានជ្រើសរើស"
+   }
+  },
+  "tiktok": "https://tiktok.com",
+  "address": "No. 168, Monivong Blvd, Phnom Penh, Cambodia",
+  "coupons": [
+   {
+    "code": "WELCOME10",
+    "active": true,
+    "percent": 10
+   },
+   {
+    "code": "VK20",
+    "active": true,
+    "percent": 20
+   }
+  ],
+  "tagline": "Your technology universe",
+  "youtube": "https://youtube.com",
+  "discount": {
+   "label": "Mega Sale",
+   "active": false,
+   "percent": 10
+  },
+  "facebook": "https://facebook.com",
+  "lowStock": 5,
+  "siteName": "VK_ETN",
+  "storeLat": 11.5564,
+  "storeLng": 104.9282,
+  "telegram": "https://t.me",
+  "shippingFee": 2,
+  "freeShippingOver": 100
+ },
+ "reviews": [
+  {
+   "id": "seed1",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-10-03T12:05:19.299Z",
+   "productId": "p1"
+  },
+  {
+   "id": "seed2",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-09-30T12:05:19.299Z",
+   "productId": "p1"
+  },
+  {
+   "id": "seed3",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-09-27T12:05:19.299Z",
+   "productId": "p1"
+  },
+  {
+   "id": "seed4",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-24T12:05:19.299Z",
+   "productId": "p2"
+  },
+  {
+   "id": "seed5",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-21T12:05:19.299Z",
+   "productId": "p2"
+  },
+  {
+   "id": "seed6",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-18T12:05:19.299Z",
+   "productId": "p2"
+  },
+  {
+   "id": "seed7",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-09-15T12:05:19.299Z",
+   "productId": "p3"
+  },
+  {
+   "id": "seed8",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-09-12T12:05:19.299Z",
+   "productId": "p3"
+  },
+  {
+   "id": "seed9",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-09T12:05:19.299Z",
+   "productId": "p3"
+  },
+  {
+   "id": "seed10",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-06T12:05:19.299Z",
+   "productId": "p4"
+  },
+  {
+   "id": "seed11",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-09-03T12:05:19.299Z",
+   "productId": "p4"
+  },
+  {
+   "id": "seed12",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-31T12:05:19.299Z",
+   "productId": "p4"
+  },
+  {
+   "id": "seed13",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-08-28T12:05:19.299Z",
+   "productId": "p5"
+  },
+  {
+   "id": "seed14",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-25T12:05:19.299Z",
+   "productId": "p5"
+  },
+  {
+   "id": "seed15",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-08-22T12:05:19.299Z",
+   "productId": "p5"
+  },
+  {
+   "id": "seed16",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-19T12:05:19.299Z",
+   "productId": "p6"
+  },
+  {
+   "id": "seed17",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-16T12:05:19.299Z",
+   "productId": "p6"
+  },
+  {
+   "id": "seed18",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-13T12:05:19.299Z",
+   "productId": "p6"
+  },
+  {
+   "id": "seed19",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-10T12:05:19.299Z",
+   "productId": "p7"
+  },
+  {
+   "id": "seed20",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-08-07T12:05:19.299Z",
+   "productId": "p7"
+  },
+  {
+   "id": "seed21",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-08-04T12:05:19.299Z",
+   "productId": "p7"
+  },
+  {
+   "id": "seed22",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-08-01T12:05:19.299Z",
+   "productId": "p8"
+  },
+  {
+   "id": "seed23",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-29T12:05:19.299Z",
+   "productId": "p8"
+  },
+  {
+   "id": "seed24",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-26T12:05:19.299Z",
+   "productId": "p8"
+  },
+  {
+   "id": "seed25",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-07-23T12:05:19.299Z",
+   "productId": "p9"
+  },
+  {
+   "id": "seed26",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-07-20T12:05:19.299Z",
+   "productId": "p9"
+  },
+  {
+   "id": "seed27",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-17T12:05:19.299Z",
+   "productId": "p9"
+  },
+  {
+   "id": "seed28",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-14T12:05:19.299Z",
+   "productId": "p10"
+  },
+  {
+   "id": "seed29",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-11T12:05:19.299Z",
+   "productId": "p10"
+  },
+  {
+   "id": "seed30",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-08T12:05:19.299Z",
+   "productId": "p10"
+  },
+  {
+   "id": "seed31",
+   "name": "Heng Visal",
+   "seed": true,
+   "text": "តម្លៃសមរម្យ គុណភាពល្អ។ ណែនាំឲ្យទិញ។",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-07-05T12:05:19.299Z",
+   "productId": "p11"
+  },
+  {
+   "id": "seed32",
+   "name": "Sok Dara",
+   "seed": true,
+   "text": "Original product, fast delivery in Phnom Penh. Very happy!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-07-02T12:05:19.299Z",
+   "productId": "p11"
+  },
+  {
+   "id": "seed33",
+   "name": "Kim Rithy",
+   "seed": true,
+   "text": "Good quality and nice packaging. KHQR payment was super easy.",
+   "avatar": "",
+   "rating": 4,
+   "userId": null,
+   "createdAt": "2026-06-29T12:05:19.299Z",
+   "productId": "p11"
+  },
+  {
+   "id": "seed34",
+   "name": "Meas Bopha",
+   "seed": true,
+   "text": "Customer service answered quickly on Telegram. Recommended!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-06-26T12:05:19.299Z",
+   "productId": "p12"
+  },
+  {
+   "id": "seed35",
+   "name": "Chan Sophea",
+   "seed": true,
+   "text": "ផលិតផលល្អណាស់ ដឹកជញ្ជូនលឿន សេវាកម្មល្អ។ អរគុណ VK_ETN!",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-06-23T12:05:19.299Z",
+   "productId": "p12"
+  },
+  {
+   "id": "seed36",
+   "name": "Lim Srey Leak",
+   "seed": true,
+   "text": "Exactly as described. Will buy again.",
+   "avatar": "",
+   "rating": 5,
+   "userId": null,
+   "createdAt": "2026-06-20T12:05:19.299Z",
+   "productId": "p12"
+  }
+ ]
+}
